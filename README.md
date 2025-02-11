@@ -1,6 +1,18 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/pages/api-reference/create-next-app).
 
+
+## Version Using
+node version 18.20.6
+next version 15.1.6
+antd version 5.23.4
+
 ## Getting Started
+
+```bash 
+npx create-next-app@15 test-antdv5 --js --no-tailwind —verbose
+npm install antd @ant-design/icons @emotion/react @emotion/styled —verbose
+npm install next-transpile-modules —verbose
+```
 
 First, run the development server:
 
