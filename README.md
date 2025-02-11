@@ -2,9 +2,9 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 
 
 ## Version Using
-node version 18.20.6
-next version 15.1.6
-antd version 5.23.4
+- node version 18.20.6
+- next version 15.1.6
+- antd version 5.23.4
 
 ## Getting Started
 
